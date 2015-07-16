@@ -1,0 +1,19 @@
+{
+  "name": "invision-consumer-producer-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "consumer.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josebalius/consumer-producer.git"
+  },
+  "author": "Jose Garcia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josebalius/consumer-producer/issues"
+  },
+  "homepage": "https://github.com/josebalius/consumer-producer#readme"
+}
